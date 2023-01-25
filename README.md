@@ -1,7 +1,7 @@
 ### Hi, I'm Matheus Fernandes 👋
 
 <ul>
-<li>Front-end Developer & student
+<li>Front-end Developer & student.
 
 <div style="display: inline_block"><br>
   <li><img align="center" alt="Matheus-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
