@@ -1,7 +1,7 @@
 ### Hi, I'm Matheus Fernandes 👋
 
 <ul>
-<li>Front-end Developer & Student.
+<li>Web development student.
 
 <div style="display: inline_block"><br>
   <li>
